@@ -1,4 +1,4 @@
-# goinfre-dev
+# goinfre
 
 > **Free 1GB+ on your 10GB drive. Automatically.**
 
